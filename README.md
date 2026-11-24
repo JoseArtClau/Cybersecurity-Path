@@ -26,6 +26,7 @@ This repository is where I document what I learn (notes, concepts, commands and 
 ### TryHackMe 
 - [✅] Pre Security Path
 - [] CyberSecurity 101
+- [1] Room's -> CTF's
 
 ### Codedex 
 - [✅] Command line Fundamentals
