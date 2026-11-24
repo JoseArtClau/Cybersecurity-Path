@@ -24,7 +24,7 @@ This repository is where I document what I learn (notes, concepts, commands and 
 - [] Lecture 4 - Preserving Privacy
 
 ### TryHackMe 
-- [✅] Pre Security Path
+- [✅] Pre Security Path - TryHackMe/ 
 - [] CyberSecurity 101
 
 ### Codedex 
