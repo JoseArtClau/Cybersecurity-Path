@@ -27,6 +27,9 @@ This repository is where I document what I learn (notes, concepts, commands and 
 - [✅] Pre Security Path
 - [] CyberSecurity 101
 
+### Codedex 
+- [✅] Command line Fundamentals
+- 
 ## Disclaimer
 These notes are written in my own words for learning purposes.
 I don't publish flags or direct answers to TryHackMe rooms.
