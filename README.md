@@ -32,6 +32,10 @@ This repository is where I document what I learn (notes, concepts, commands and 
 
 -[] Room's -> CTF's
 
+### CryptoHack
+
+- [] Introduction To CryptoHack
+
 ### Codedex 
 - [✅] Command line Fundamentals
 - 
