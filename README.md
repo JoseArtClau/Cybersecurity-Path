@@ -35,7 +35,7 @@ This repository is where I document what I learn (notes, concepts, commands and 
 ### CryptoHack
 
 - [✅] Registration -> Python Code for Ceasar's Cypher Challenge
-- [] Introduction To CryptoHack
+- [1] Flags in Introduction To CryptoHack
 
 ### Codedex 
 - [✅] Command line Fundamentals
