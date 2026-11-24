@@ -30,7 +30,7 @@ This repository is where I document what I learn (notes, concepts, commands and 
 
 ### HackTheBox
 
--[] Room's -> CTF's
+- [] Room's -> CTF's
 
 ### CryptoHack
 
