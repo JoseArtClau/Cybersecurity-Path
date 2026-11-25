@@ -74,20 +74,7 @@ p
 ...
 ```
 
-### Step 3: Build the flag in one string
-Same idea I used in my [Caesar cipher](registration.md): start with an empty string and add each character with `+=`.
-
-```python
-message = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 110, 116, 52, 98, 108, 51, 125]
-flag = ""
-
-for number in message:
-    flag += chr(number)
-
-print(flag)
-```
-
-**Output:** `crypto{REDACTED}` 🚩
+🚩 Flag found!
 
 ### Step 4 (bonus): One-line version
 Using `"".join()` to glue every character together:
