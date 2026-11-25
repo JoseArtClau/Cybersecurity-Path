@@ -49,6 +49,7 @@ message = "63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f68657
 
 print(bytes.fromhex(message))
 ```
+🚩 Flag found!
 
 | Direction | Code |
 |---|---|
